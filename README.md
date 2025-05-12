@@ -1,4 +1,4 @@
-# **Summarizer: 4-Week Roadmap**
+# **summarizer: 4-Week Roadmap**
 
 This roadmap is designed to guide the development of the `summarizer` application, an AI-powered text summarizer and analysis tool. Over the course of four weeks, the interns will learn the basics of Next.js, FastAPI, OpenAI API integration, state management, and database handling. They will implement features such as text summarization, categorization, user authentication, and saving summaries. By the end of the project, they will have built a fully functioning tool with AI-powered capabilities.
 
